@@ -43,6 +43,7 @@ body {
   .game {
     display: flex;
     flex-direction: row;
+    margin: 15% 0 0 42%;
   }
   
   .game-info {
